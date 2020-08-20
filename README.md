@@ -1,16 +1,13 @@
-### Hi there 👋
+# Developer Soojin
 
-<!--
-**KIMSOOJIN97/KIMSOOJIN97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjongja%2FKIMSOOJIN97)](https://hits.seeyoufarm.com)  
+  
+**Welcome to my Github profile!**  
+**I am a developer who likes embedded systems and Linux kernel.**  
+**I am interested in the following fields.**  
+  
+`embedded system` `linux kernel` `hardware security` `deep learning`  
+  
+  ---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats](https://github-readme-stats.vercel.app/api?username=KIMSOOJIN97&show_icons=true&hide_border=true) 
