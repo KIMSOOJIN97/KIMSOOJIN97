@@ -13,7 +13,6 @@
 - linux kernel
 - hardware security
 - Front-end
-- Deep learning
 
 
 ------
