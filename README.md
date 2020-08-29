@@ -1,7 +1,7 @@
-# Developer soojin 👩🏻‍💻
+# [Developer soojin 👩🏻‍💻](https://www.notion.so/f4e01d0111c74f7e8e8e34fefcd19645)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjongja%2FKIMSOOJIN97)](https://hits.seeyoufarm.com)  
-[](https://www.notion.so/f4e01d0111c74f7e8e8e34fefcd19645)
+
 **Welcome to my Github profile!**  
 
 
