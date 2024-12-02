@@ -7,13 +7,12 @@
 
 
 ### :mortar_board: Education 
-- Undergraduate Student in School of Computer Engineering, Kwangwoon University 
+- Graduate Student in School of Computer Engineering, Kwangwoon University 
 
 ### 🌟 Interests
-- Embedded system
-- linux kernel
-- hardware security
-- Front-end
+- Backend
+- Databse
+- Frontend
 
 ------
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KIMSOOJIN97&show_icons=true&hide_border=true) 
